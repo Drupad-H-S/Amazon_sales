@@ -16,9 +16,6 @@ missing values and ensure data quality.
 ## Analysis Questions Resolved
 During the analysis, the following key questions were addressed using SQL queries and data
 analysis techniques:
-## Analysis Questions Resolved
-During the analysis, the following key questions were addressed using SQL queries and data
-analysis techniques:
 1. Find out the top 5 customers who made the highest profits.
 2. Find out the average quantity ordered per category.
 3. Identify the top 5 products that have generated the highest revenue.
@@ -34,7 +31,7 @@ analysis techniques:
 13. 10 customers details who has spent more than average spent by all customers,return customer_name, total_spent
 14. Identify returning customers: Label customers as "Returning" if they have placed more than one returns; otherwise, mark them as "New." return customer_id, total_orders, total_returns
 ## Entity-Relationship Diagram (ERD)
-(ERD_Amazon.png)
+ERD_Amazon.png
 An Entity-Relationship Diagram (ERD) has been created to visualize the relationships between
 the tables in the dataset. This diagram provides a clear understanding of the data structure and
 helps in identifying key entities and their attributes.
